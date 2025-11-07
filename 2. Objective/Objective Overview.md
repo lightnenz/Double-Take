@@ -1,4 +1,4 @@
 - We want to create an interactive photography social game for photographers across different skill levels.
 - This platform will be used as a great way to get valuable feedback from others.
 - We are aiming to have an elo system included.
-- The aim of the ELO system is to show how useful
+- The aim of the ELO system is to show how valuable your reviews are.
