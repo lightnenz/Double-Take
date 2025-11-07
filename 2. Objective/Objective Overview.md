@@ -1,1 +1,1 @@
-- We want to create an
+- We want to create an interactive photography social game for photographers accross different skill levels
