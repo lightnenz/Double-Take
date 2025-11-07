@@ -1,3 +1,3 @@
 - We want to create an interactive photography social game for photographers across different skill levels.
 - This platform will be used as a great way to get valuable feedback from others.
-- We are aiming to have an elo system
+- We are aiming to have an e
