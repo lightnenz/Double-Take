@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Objective/Objective Overview.md",
+                "file": "2. Objective/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objective Overview"
+              "title": "Ideas"
             }
           },
           {
@@ -183,9 +183,10 @@
   },
   "active": "12a802923b88ab41",
   "lastOpenFiles": [
+    "2. Objective/Objective Overview.md",
+    "2. Objective/Ideas.md",
     "3. Product Requirements/Product Requirements Overview.md",
     "1. Outline/Overview.md",
-    "2. Objective/Objective Overview.md",
     "11. Code/DoubleVision/README.md",
     "10 . Research/Research Overview.md",
     "11. Code/DoubleVision/lib/db/users.ts",
