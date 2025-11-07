@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Outline/Overview.md",
+                "file": "11. Code/DoubleVision/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Outline/Overview.md",
+                "file": "11. Code/DoubleVision/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Outline/Overview.md",
+                "file": "11. Code/DoubleVision/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overview"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Outline/Overview.md",
+                "file": "11. Code/DoubleVision/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview"
+              "title": "Outline of README"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "30f174803894a247",
   "lastOpenFiles": [
+    "10 . Research/Research Overview.md",
+    "1. Outline/Overview.md",
     "11. Code/DoubleVision/lib/db/users.ts",
     "11. Code/DoubleVision/lib/db/reviews.ts",
     "11. Code/DoubleVision/lib/db/reviewAssignments.ts",
@@ -198,16 +200,13 @@
     "11. Code/DoubleVision/lib/mongodb.ts",
     "11. Code/DoubleVision/lib/rateLimit.ts",
     "11. Code/DoubleVision/lib/logger.ts",
-    "11. Code/DoubleVision/lib/linear.ts",
     "11. Code/DoubleVision/SETUP_GUIDE.md",
     "11. Code/DoubleVision/README.md",
     "11. Code/DoubleVision/PROJECT_SUMMARY.md",
     "11. Code/DoubleVision/PROGRESS.md",
     "11. Code/DoubleVision/DEPLOYMENT_GUIDE.md",
     "11. Code/DoubleVision/DEPLOYMENT.md",
-    "10 . Research/Research Overview.md",
     "4. UI & UX/UI & UX Overview.md",
-    "1. Outline/Overview.md",
     "9. Targets/Targets Overview.md",
     "7. Marketing & Outreach/Marketing & Outreach Overview.md",
     "6. Financial Outline/Financial Outline Overview.md",
