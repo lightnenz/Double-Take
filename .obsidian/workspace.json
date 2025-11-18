@@ -43,8 +43,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef39b36205d3c51d",
+  "active": "12a802923b88ab41",
   "lastOpenFiles": [
     "11. Code/DoubleVision/DEPLOYMENT_GUIDE.md",
     "11. Code/DoubleVision/DEPLOYMENT.md",
